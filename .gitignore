@@ -1,0 +1,52 @@
+# Byte-compiled / cached files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+
+# Virtual environment
+venv/
+.env/
+*.venv/
+Pipfile.lock
+
+# Logs and debugging
+logs/
+*.log
+*.out
+*.err
+*.bak
+debug.log
+
+# Compiled libraries and binaries
+*.so
+*.dll
+*.dylib
+*.pyd
+*.exe
+*.bin
+
+# OpenGL and shader cache
+*.cache/
+*.shadercache/
+*.glslcache/
+*.cso
+*.pso
+*.vulkan/
+
+# Build and distribution directories
+build/
+dist/
+*.egg-info/
+.eggs/
+*.spec
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.sublime-workspace
+
+# OS-specific files
+.DS_Store
+Thumbs.db
